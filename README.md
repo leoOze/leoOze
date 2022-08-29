@@ -1,1 +1,1 @@
-C# & software reverse engineering student
+programming & software reverse engineering student
